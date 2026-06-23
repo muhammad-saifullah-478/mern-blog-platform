@@ -21,7 +21,7 @@ A modern full-stack blog platform that allows administrators to manage content e
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js / Next.js
+- React.js 
 - Tailwind CSS
 - Redux Toolkit
 
